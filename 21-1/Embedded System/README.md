@@ -26,4 +26,7 @@
 ### 21.04.07 도딘팟
 
 - Video ([The astounding athletic power of quadcopters](https://www.youtube.com/watch?v=w2itwFJCgFQ))
-- Research Interests: Embedded System, Deep Learning, Web
+- Research Interests
+1. Embedded System: Car 
+2. Deep Learning: Computer vision (detection, segmentation, location, recognition..)
+3. Web
