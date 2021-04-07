@@ -6,7 +6,7 @@
 - Cadets: 김진원, 박준수, 이재선, 이준혁, 도딘팟
 - Schedule:
 
-## Research Interest
+## Research Interests
 - Embedded System, Web Programming, Mobile App Development, Venture, Coding Practice, 
 
 ## Research Area(TBD)
@@ -20,3 +20,10 @@
 - What is the best motivation for cadets to study CS?
 - What skills do cadets need?
 - How can they study programming by themselves?
+
+## Seminar
+
+### 21.04.07 도딘팟
+
+- Video ([The astounding athletic power of quadcopters](https://www.youtube.com/watch?v=w2itwFJCgFQ))
+- Research Interests: Embedded System, Deep Learning, Web
