@@ -7,7 +7,7 @@
 - Schedule:
 
 ## Research Interests
-- Embedded System, Web Programming, Mobile App Development, Venture, Coding Practice, 
+- Embedded System, Web Programming, Mobile App Development, Venture, Coding Practice
 
 ## Research Area(TBD)
 - 
