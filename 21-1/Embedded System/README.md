@@ -9,6 +9,13 @@
 ## Research Interests
 - Embedded System, Web Programming, Mobile App Development, Venture, Coding Practice
 
+## Project 
+- Home monitoring
+- Digital doorlock
+- Face recognition
+- POV + Camera + Electric Fan
+- Real-Time People Counter
+
 ## Research Area(TBD)
 - 
 - 
