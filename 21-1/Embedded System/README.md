@@ -31,9 +31,21 @@
 ## Seminar
 
 ### 21.04.07 도딘팟
-
 - Video ([The astounding athletic power of quadcopters](https://www.youtube.com/watch?v=w2itwFJCgFQ))
 - Research Interests
 1. Embedded System: Car 
 2. Deep Learning: Computer vision (detection, segmentation, location, recognition..)
 3. Web
+
+### 21.05.12 이준혁
+- Video ([Towards Learning Robot Table Tennis](https://youtu.be/SH3bADiB7uQ))
+- AI(Artificial Intelligence)
+
+### 21.05.26 박준수
+- Quantum computing
+
+### 21.05.27 이재선
+- Blockchain
+
+### 21.06.02 김진원
+- Semiconductor
